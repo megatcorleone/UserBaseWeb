@@ -1,0 +1,22 @@
+{
+  "name": "userbaseweb",
+  "version": "1.0.0",
+  "description": "UserBase Web App Based On Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megatcorleone/UserBaseWeb.git"
+  },
+  "author": "megatcorleone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megatcorleone/UserBaseWeb/issues"
+  },
+  "homepage": "https://github.com/megatcorleone/UserBaseWeb#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
